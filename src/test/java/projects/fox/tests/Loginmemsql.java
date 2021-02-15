@@ -23,4 +23,12 @@ public class Loginmemsql {
 	{
 		System.out.println(url);
 	}
+	public void  returnuser()
+	{
+		System.out.println(user);
+	}
+	public void  returnuser2()
+	{
+		System.out.println(user2);
+	}
 }
