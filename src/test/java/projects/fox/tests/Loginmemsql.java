@@ -8,7 +8,6 @@ public class Loginmemsql {
 	String user = "rdusr_serelium";
 	String pass = "f9HFA3zqcAkh";
 	
-	String fname = "Saurabh";
-	String lname = "Sharma";
-	int age = 33;
+	float a[];
+	char asr[];
 }
